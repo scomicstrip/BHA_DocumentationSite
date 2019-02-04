@@ -24,6 +24,12 @@ It's expensive than diy.
 2018-01-29 TUE
 Bio hack academy live class.
 
+- Course intro
+- History of biohacking
+- 3D design and Assignment
+- Sterile Hood design (어제 공부했던 clean bench입니다)
+- Biosafety
+
 Can not join all they cause of work.
 
 ---
@@ -33,3 +39,11 @@ Can not join all they cause of work.
 1400 ~ 1600 : make
 
 ==hold to move out.
+
+2018-01-31 THU
+Tex recommend a online class.'Biology - The secret of Life.'
+https://www.edx.org/course/introduction-to-biology-the-secret-of-life-2
+
+* Bio hack outline : http://biohackacademy.github.io/bha6/class/1/
+
+
