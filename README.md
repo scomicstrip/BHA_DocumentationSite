@@ -42,8 +42,16 @@ Can not join all they cause of work.
 
 2018-01-31 THU
 Tex recommend a online class.'Biology - The secret of Life.'
+
 https://www.edx.org/course/introduction-to-biology-the-secret-of-life-2
 
 * Bio hack outline : http://biohackacademy.github.io/bha6/class/1/
+
+---
+2018-02-01
+Microbial culture media(미생물 배지)
+
+==hold to move out.
+
 
 
