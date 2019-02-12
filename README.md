@@ -18,7 +18,6 @@ Fan can control wind speed/HEPA Filter(It needs clean up occasionally. pre filte
 option_LED light, UV bar for sterilize, 
 Laminar Flow. (it seems like water fountain show.)
 
-It's expensive than diy.
 
 ---
 2018-01-29 TUE
